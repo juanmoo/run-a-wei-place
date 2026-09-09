@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="1500" viewBox="0 0 700 1500" fill="none">
+  <defs>
+    <pattern id="brick" width="64" height="32" patternUnits="userSpaceOnUse">
+      <rect width="64" height="32" fill="#A95743"/>
+      <path d="M0 0h64M0 16h64M32 0v16M0 16v16M64 16v16" stroke="#C78367" stroke-width="1.5"/>
+      <path d="M3 3h25M36 19h24" stroke="#773F34" stroke-opacity=".3" stroke-width="2"/>
+    </pattern>
+    <pattern id="corbels" width="44" height="26" patternUnits="userSpaceOnUse">
+      <path d="M12 0h20v18l-5 8H17l-5-8Z" fill="#D8B998" stroke="#773F34" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <g stroke="#343635" stroke-width="3" stroke-linejoin="round">
+    <path d="M125 178v-54h61v54" fill="#773F34"/>
+    <path d="M117 119h78v12h-78Z" fill="#D8B998"/>
+    <path d="M73 1390V193h554v1197Z" fill="url(#brick)"/>
+    <path d="M75 243h17v902H75Zm535 0h15v902h-15Z" fill="#773F34" stroke="none" opacity=".5"/>
+    <path d="M83 187h534v24H83Z" fill="#773F34"/>
+    <path d="M73 211h554v35H73Z" fill="#B88C6C"/>
+    <path d="M81 212h538v26H81Z" fill="url(#corbels)" stroke="none"/>
+    <path d="M58 191h584v20H58Zm-7-14h598v14H51Z" fill="#D8B998"/>
+    <path d="M67 244h566v9H67Z" fill="#D8B998"/>
+    <path d="M275 263h150v25H275Z" fill="#D8B998" stroke-width="1.5"/>
+    <path d="M73 511h554v9H73Zm0 307h554v9H73Z" fill="#B88C6C" stroke="#773F34" stroke-width="2"/>
+    <path d="M73 1136h554v254H73Z" fill="#B88C6C"/>
+    <path d="M73 1181h554M73 1231h554M73 1281h554M73 1331h554M73 1381h554M176 1136v45m172-45v45m178-45v45M100 1181v50m194-50v50m-104 0v50m-90 0v50m194-50v50m-104 0v50m-90 0v9" stroke="#916449" stroke-width="2"/>
+    <path d="M62 1125h576v17H62Z" fill="#D8B998"/>
+    <path d="M370 1364v-175q104-74 208 0v175Z" fill="#D8B998"/>
+    <path d="M391 1364v-169q83-55 166 0v169Z" fill="#343635"/>
+    <path d="M404 1358v-154h140v154Z" fill="#773F34"/>
+    <path d="M404 1196q70-44 140 0Z" fill="#A8CCD4"/>
+    <path d="M474 1165v31m-41-20 20 20m60-20-20 20" stroke="#D8B998" stroke-width="3"/>
+    <path d="M414 1215h50v65h-50Zm70 0h50v65h-50Z" fill="#A8CCD4"/>
+    <path d="M414 1293h50v52h-50Zm70 0h50v52h-50Z" fill="#A95743"/>
+    <path d="M424 1226h18m-18 0v18m70-18h18" stroke="#F6F9FC" stroke-width="3"/>
+    <path d="M471 1300v16" stroke="#D8B998" stroke-width="5" stroke-linecap="round"/>
+    <path d="M375 1364h199v15H375Zm-12 15h223v15H363Zm-12 15h247v15H351Z" fill="#D8B998"/>
+    <path d="M351 1409v-93l24-24v69m223 48v-93l-24-24v69M363 1320v72m-12-47 24-24m211-1v72m-12-71 24 24" stroke="#343635" stroke-width="4"/>
+    <path d="M323 1186h22v37h-22Zm-5-5h32l-16-13Z" fill="#F4DEAE"/>
+    <path d="M334 1187v34m-11-17h22" stroke-width="2"/>
+    <path d="M73 1390h261v19H73Zm541 0h13v19h-13" fill="#773F34"/>
+    <path d="M0 1411h700v89H0Z" fill="#D9DEE7" stroke="none"/>
+    <path d="M0 1411h700m-595 0-21 72m205-72-9 72m171-72 15 72m151-72 32 72" stroke-width="2"/>
+    <path d="M81 1407h37m-29 0-4-15m18 15 3-23m5 23 10-12" stroke-width="2"/>
+  </g>
+  <text x="350" y="280" text-anchor="middle" fill="#343635" font-family="Trebuchet MS, sans-serif" font-size="10" font-weight="bold" letter-spacing=".35">RUN-A-WEI PLACE</text>
+</svg>

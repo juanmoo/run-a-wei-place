@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 235 220" fill="none" stroke="#343635" stroke-width="4" stroke-linejoin="round">
+  <path d="M24 6v65m0-51h181M24 60q58 0 72-40"/>
+  <path d="M73 20v55m111-55v55" stroke-width="3"/>
+  <path d="M45 78q69-20 158 0v104q-81 20-158 0Z" fill="#773F34"/>
+  <path d="M55 87q65-17 138 0v87q-72 17-138 0Z" stroke="#D8B998" stroke-width="2"/>
+  <circle cx="124" cy="120" r="22" fill="#A8CCD4" stroke="#D8B998" stroke-width="2"/>
+  <ellipse cx="124" cy="120" rx="10" ry="22" stroke="#343635" stroke-width="2"/>
+  <path d="M102 120h44m-40-10h36m-36 20h36" stroke-width="2"/>
+  <text x="124" y="163" text-anchor="middle" fill="#F4DEAE" stroke="none" font-family="Trebuchet MS, sans-serif" font-size="14" font-weight="bold" letter-spacing="1">WEB WORKS</text>
+</svg>

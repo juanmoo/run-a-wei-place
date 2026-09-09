@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" fill="none">
+  <path d="M180 0h640v655H180Z" fill="#b8a5ef"/>
+  <g stroke="#202338" stroke-width="3" stroke-linejoin="round">
+    <path d="M180 0v655h640V0"/>
+    <path d="M205 0v655m590-655v655" stroke="#9b84d6"/>
+    <path d="M180 37h640M180 52h640"/>
+    <path d="M226 300h253v12H226Zm295 0h253v12H521Z" fill="#d9dee7"/>
+    <path d="M163 342h674v23H163Z" fill="#d9dee7"/>
+    <path d="M180 365h640v290H180Z" fill="#d9dee7"/>
+    <path d="M197 365v290m606-290v290" stroke="#aeb6c7"/>
+    <path d="M510 398h240v257H510Z" fill="#202338"/>
+    <path d="M527 415h206v240H527Z" fill="#b8a5ef"/>
+    <path d="M540 429h180v160H540Z" fill="#ddf3ff"/>
+    <path d="M553 443h23m-23 0v23" stroke="#f6f9fc" stroke-width="5"/>
+    <path d="M543 610h22" stroke-width="6"/>
+    <path d="M571 478h117v57H571Z" fill="#daf58a"/>
+    <path d="m589 478 39-33 39 33" stroke-width="2"/>
+    <path d="M157 655h688v19H157Z" fill="#f6f9fc"/>
+    <path d="M141 674h720v18H141Z" fill="#d9dee7"/>
+    <path d="M0 692h1000v68H0" fill="#d9dee7" stroke="none"/>
+    <path d="M0 692h1000M0 746h1000"/>
+    <path d="m111 692-31 54m288-54-12 54m285-54 13 54m260-54 30 54" stroke-width="2"/>
+    <path d="M69 673h48m-38 0-3-13m18 13 3-22m6 22 9-12" stroke-width="2"/>
+    <path d="M241 614h130v20H241Z" fill="#f6f9fc"/>
+  </g>
+  <text x="630" y="514" text-anchor="middle" fill="#202338" font-family="Courier New, monospace" font-size="25" font-weight="bold">HELLO!</text>
+  <text x="306" y="628" text-anchor="middle" fill="#202338" font-family="Courier New, monospace" font-size="11">EST. ON THE INTERNET</text>
+  <text x="147" y="180" text-anchor="middle" fill="#202338" font-family="Courier New, monospace" font-size="13" transform="rotate(-90 147 180)">DOWNSTAIRS / 00</text>
+</svg>

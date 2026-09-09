@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="850" viewBox="0 0 1000 850" fill="none">
+  <g stroke="#202338" stroke-width="3" stroke-linejoin="round">
+    <path d="M50 185h108a20 20 0 0 0-20-20h-6a29 29 0 0 0-56-8 19 19 0 0 0-26 28Z" fill="#f6f9fc"/>
+    <path d="M825 330h125a19 19 0 0 0-18-25h-9a27 27 0 0 0-52-5 21 21 0 0 0-46 30Z" fill="#f6f9fc"/>
+    <path d="M195 215V850h610V215" fill="#b8a5ef"/>
+    <path d="M180 245h640v605H180Z" fill="#b8a5ef" stroke="none"/>
+    <path d="M180 245v605m640-605v605"/>
+    <path d="M205 250v600m590-600v600" stroke="#9b84d6"/>
+    <path d="M180 595h640M180 610h640"/>
+    <path d="M163 218h674v27H163Z" fill="#d9dee7"/>
+    <path d="M175 205h650v13H175Z" fill="#f6f9fc"/>
+    <path d="M300 151v54m400-54v54" stroke-width="6"/>
+    <rect x="275" y="99" width="450" height="80" rx="3" fill="#daf58a"/>
+    <path d="M285 109h430v60H285Z" stroke-width="1"/>
+    <path d="M744 202v-65m-21 12 41-23m-39 45 44-24" stroke-width="4"/>
+    <path d="M250 311h40m420 0h40m-215 0h40M215 576h23m270-219h25m240 258h25" stroke="#9b84d6"/>
+    <path d="M226 570h253v12H226Zm295 0h253v12H521Z" fill="#d9dee7"/>
+    <path d="M226 842h253v8H226Zm295 0h253v8H521Z" fill="#d9dee7"/>
+  </g>
+  <text x="500" y="150" text-anchor="middle" fill="#202338" font-family="Trebuchet MS, sans-serif" font-size="38" font-weight="bold" letter-spacing="-1">LITTLE BUILDING</text>
+  <text x="147" y="406" text-anchor="middle" fill="#202338" font-family="Courier New, monospace" font-size="13" transform="rotate(-90 147 406)">UPSTAIRS / 02</text>
+  <text x="854" y="718" text-anchor="middle" fill="#202338" font-family="Courier New, monospace" font-size="13" transform="rotate(90 854 718)">A FEW GOOD NEIGHBORS</text>
+  <g stroke="#202338" stroke-width="2"><path d="M866 111v22m-11-11h22M104 502v14m-7-7h14"/></g>
+</svg>
